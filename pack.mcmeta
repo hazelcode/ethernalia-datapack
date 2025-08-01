@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 81,
+        "description": {
+            "text": "Datapack para Ethernalia",
+            "color": "gold",
+            "bold": true
+        }
+    }
+}
